@@ -1,0 +1,58 @@
+
+.App {
+    text-align: center;
+  }
+  
+  @media (prefers-reduced-motion: no-preference) {
+    .App-logo {
+      animation: App-logo-spin infinite 20s linear;
+    }
+  }
+  
+  .App-header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    font-size: calc(10px + 2vmin);
+    color: rgb(0, 0, 0);
+  }
+  
+  .App-link {
+    color: #61dafb;
+  }
+  
+  #title{
+    text-decoration: none;
+    font-family: 'Inconsolata', monospace;
+    font-size: 90px;
+    color:rgb(0, 0, 0);
+    margin: 30px;
+    vertical-align: middle;
+  }
+  
+  #mainWrapper{
+    background-color: #282c34;
+     background-image: url(../images/newBeginnings.gif);
+     background-size: cover;
+     min-height: 100vh;
+    
+  }
+  
+  #bio {
+    opacity: 0;
+    animation-name: bio-load;
+    animation-duration: 10s;
+    animation-fill-mode: forwards;
+}
+
+  @keyframes bio-load {
+    100% {
+        opacity: 1
+    }
+
+    0% {
+        opacity: 0
+    }
+}
+  

@@ -1,0 +1,92 @@
+.flex{
+    display: flex;
+    flex: auto;
+    flex-direction:row; 
+  }
+  
+  .cardHolder{
+    display: flex;
+    flex: auto;
+    flex-direction:row; 
+    align-self: center;
+    justify-content: end;
+    width: 90%;
+  }
+
+  .card{
+    justify-content: center;
+    align-self: flex-end;
+    background-color: #282c34;
+    border-radius: 5px 5px 5px;
+    width: 225px;
+    height: 325px;
+    margin: 8px;
+  }
+
+  .card:hover{
+    box-shadow: 5px 5px 5px black;
+    transform: rotate(350deg);
+  }
+
+  .text1{
+    align-self: flex-start;
+    font-size: 30px;
+    margin-right: 300px;
+    width: 30%;
+    margin-left: 200px;
+  }
+
+  .photo1{
+    background-image: url(../images/newBeginnings.gif);
+    width: 100%;
+    height: 60%;
+  }
+
+  .photo2{
+    background-image: url(../images/newBeginnings.gif);
+    width: 100%;
+    height: 60%;
+  }
+
+  .photo3{
+    background-image: url(../images/newBeginnings.gif);
+    width: 100%;
+    height: 60%;
+  }
+
+  .photo4{
+    background-image: url(../images/newBeginnings.gif);
+    width: 100%;
+    height: 60%;
+  }
+
+  .photo5{
+    background-image: url(../images/newBeginnings.gif);
+    width: 100%;
+    height: 60%;
+  }
+
+  .photo6{
+    background-image: url(../images/newBeginnings.gif);
+    width: 100%;
+    height: 60%;
+  }
+
+  .photo7{
+    background-image: url(../images/newBeginnings.gif);
+    width: 100%;
+    height: 60%;
+  }
+
+  .photo8{
+    background-image: url(../images/newBeginnings.gif);
+    width: 100%;
+    height: 60%;
+  }
+
+  .photo9{
+    background-image: url(../images/newBeginnings.gif);
+    width: 100%;
+    height: 60%;
+  }
+

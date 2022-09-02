@@ -1,0 +1,93 @@
+
+.App-header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: calc(10px + 2vmin);
+  color: rgb(0, 0, 0);
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+
+
+#title{
+  text-decoration: none;
+  font-family: 'Inconsolata', monospace;
+  font-size: 90px;
+  color:rgb(0, 0, 0);
+  margin: 30px;
+  vertical-align: middle;
+}
+
+#mainWrapper{
+  background-color: #282c34;
+   background-image: url(../images/photo.gif);
+   background-size: cover;
+   min-height: 100vh;
+  
+}
+
+#photo1{
+  width: 30%;
+  height: 30%;
+ border-radius: 7px 7px 7px;
+ margin: 30px;
+}
+
+.flex{
+  display: flex;
+  flex-direction: row;
+  flex: auto;
+  align-self: flex-end;
+}
+
+#portfolio{
+  display: flex;
+  justify-content: center;
+  text-decoration: none;
+  font-family: 'Inconsolata', monospace;
+  font-size: 90px;
+  color:rgb(0, 0, 0);
+  margin: 30px;
+  vertical-align: middle;
+}
+
+#bio{
+  margin: 30px;
+  margin-left: 100px;
+  font-size: 27px;
+  width: 750px;
+  text-shadow: 5px 5px 5px #b1c1e1;
+}
+
+.typewriter h1 {
+  font-size: 40px;
+  overflow: hidden; /* Ensures the content is not revealed until the animation */
+  border-right: .15em solid orange; /* The typwriter cursor */
+  white-space: nowrap; /* Keeps the content on a single line */
+  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+  letter-spacing: .15em; /* Adjust as needed */
+  margin-left: 7%;
+  margin-right: 7%;
+  animation: 
+    typing 4.5s steps(40, end),
+    blink-caret .75s step-end infinite;
+  
+}
+
+/* The typing effect */
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+/* The typewriter cursor effect */
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: orange; }
+}
+
