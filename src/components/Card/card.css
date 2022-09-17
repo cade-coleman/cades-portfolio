@@ -21,11 +21,18 @@
     width: 225px;
     height: 325px;
     margin: 8px;
+    text-decoration: none;
   }
 
   .card:hover{
     box-shadow: 5px 5px 5px black;
     transform: rotate(350deg);
+  }
+
+  .cardText{
+    text-decoration: none;
+    text-align: center;
+    color: white;
   }
 
   .text1{
@@ -37,56 +44,43 @@
   }
 
   .photo1{
-    background-image: url(../images/newBeginnings.gif);
+    background-image: url(../../images/Spotlight.png);
     width: 100%;
     height: 60%;
+    background-size: cover;
+    /* background-position: center; */
   }
 
   .photo2{
-    background-image: url(../images/newBeginnings.gif);
+    background-image: url(../../images/newBeginnings.gif);
     width: 100%;
     height: 60%;
   }
 
   .photo3{
-    background-image: url(../images/newBeginnings.gif);
+    background-image: url(../../images/starwarsgame.png);
     width: 100%;
     height: 60%;
+    background-position: center;
   }
 
   .photo4{
-    background-image: url(../images/newBeginnings.gif);
+    background-image: url(../../images/newBeginnings.gif);
     width: 100%;
     height: 60%;
   }
 
   .photo5{
-    background-image: url(../images/newBeginnings.gif);
+    background-image: url(../../images/newBeginnings.gif);
     width: 100%;
     height: 60%;
   }
 
   .photo6{
-    background-image: url(../images/newBeginnings.gif);
+    background-image: url(../../images/newBeginnings.gif);
     width: 100%;
     height: 60%;
   }
 
-  .photo7{
-    background-image: url(../images/newBeginnings.gif);
-    width: 100%;
-    height: 60%;
-  }
 
-  .photo8{
-    background-image: url(../images/newBeginnings.gif);
-    width: 100%;
-    height: 60%;
-  }
-
-  .photo9{
-    background-image: url(../images/newBeginnings.gif);
-    width: 100%;
-    height: 60%;
-  }
 

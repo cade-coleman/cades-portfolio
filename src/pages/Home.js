@@ -1,5 +1,5 @@
 import '../styles/AppHome.css';
-import Nav from '../components/Nav';
+import Nav from '../components/Nav/Nav';
 
 
 function Home (){
@@ -9,9 +9,9 @@ return(
         <br></br>
         <br></br>
       <header className="App-header">
-        <h1><a id='title' href='https://www.yout-ube.com/watch?v=dQw4w9WgXcQ'>Cade Coleman</a></h1>
+        <h1><a id='title' target='_blank' href='https://www.yout-ube.com/watch?v=dQw4w9WgXcQ'>Cade Coleman</a></h1>
       </header> 
-      <div class='typewriter' >
+      <div className='typewriter' >
         <h1>Welcome to my react portfolio, I hope you enjoy! </h1>
       </div>
     </div>

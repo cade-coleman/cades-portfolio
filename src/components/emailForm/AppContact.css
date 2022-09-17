@@ -1,0 +1,40 @@
+
+.emailBG{
+  background-color: black;
+  border-radius: 5px 5px 5px 5px;
+}
+
+.flexColumn{
+  display: flex;
+  flex-direction: column;
+}
+
+.emailSize{
+  width: 30%;
+  height: 400px
+}
+
+.m{
+  margin: 10px;
+}
+
+.message{
+  min-width: 200px;
+  height: 100px;
+}
+
+.input{
+  min-height: 30px;
+  width: 60%;
+  align-self: center;
+}
+
+.submit{
+  width: 100px;
+  min-height: 30px;
+  align-self: center;
+}
+
+.alignCenter{
+  align-items: center;
+}

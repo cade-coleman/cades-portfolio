@@ -1,6 +1,6 @@
-import Nav from '../components/Nav';
+import Nav from '../components/Nav/Nav';
 import '../styles/AppHome.css';
-import Card from '../components/Card'
+import Card from '../components/Card/Card'
 
 
 function Portfolio (){
