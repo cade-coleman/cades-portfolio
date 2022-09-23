@@ -12,6 +12,10 @@
   color: #61dafb;
 }
 
+.mt{
+  margin-top: -20px;
+}
+
 .spaceAround{
   justify-content: space-around;
 }

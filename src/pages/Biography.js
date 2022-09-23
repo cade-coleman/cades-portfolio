@@ -11,7 +11,7 @@ return(
         <h1><a id='title' href='https://www.yout-ube.com/watch?v=dQw4w9WgXcQ'>About me</a></h1>
       </header> 
     <div>
-      <div className="flex">
+      <div className="flex mt">
         <div className='flex-column'>
           <p className='bio'>
         Hello! My name is Cade  </p>

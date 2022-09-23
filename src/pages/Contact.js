@@ -15,7 +15,7 @@ function Contact (){
       </div>
       </header> 
       <div className='flex spaceAround'>
-        <Email/>
+        
         <Email/>
         </div>
     
