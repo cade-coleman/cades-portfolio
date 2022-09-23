@@ -17,7 +17,7 @@ export default function Card() {
         </div></a>
         <a className='cardText' target='_blank' rel="noreferrer" href="https://backstage-connection.herokuapp.com/"><div class="card">
           <img class="photo2"></img>
-          <p>Backstage Connection is a forum website</p>
+          <p>Backstage Connection is a forum website to help connect bands and venues, to get started jus create an account!</p>
         </div></a>
         <a className='cardText' target="_blank" rel="noreferrer" href="https://cade-coleman.github.io/STAR-WARS-triviaGame/"><div class="card cardText">
           <img class="photo3"></img>
@@ -32,7 +32,7 @@ export default function Card() {
         </div></a>
         <a className='cardText' target="_blank" rel="noreferrer" href="https://github.com/cade-coleman/Team-Builder"><div class="card">
           <img class="photo5"></img>
-          <p>This command line application helps to build</p>
+          <p>This command line application uses inquirer and several other packages to create an HTML page with bootstrap element to keep track of your team</p>
         </div></a>
         <a className="cardText" target="_blank" rel="noreferrer" href="https://cade-coleman.github.io/Javascript-Password-Generator/"><div class="card">
           <img class="photo6"></img>
