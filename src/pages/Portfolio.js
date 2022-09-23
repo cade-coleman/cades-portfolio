@@ -9,7 +9,7 @@ return(
     <div id='mainWrapper' className="App">
         <Nav/>
       <header className="App-header">
-        <h1><a id='title'>Portfolio</a></h1>
+        <h1 id='title'>Portfolio</h1>
       </header> 
       <Card/>
     </div>

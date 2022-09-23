@@ -10,7 +10,7 @@ function Contact (){
     <div id='mainWrapper' className="">
         <Nav/>
       <header className="App-header">
-        <h1><a id='title'>Contact</a></h1>
+        <h1 id='title'>Contact</h1>
         <div class="grid">
       </div>
       </header> 
