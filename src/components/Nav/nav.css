@@ -5,7 +5,7 @@
     justify-content: center;
     font-size: 30px;
     font-family: 'Inconsolata', monospace;
-    text-shadow: 5px 5px 5px rgba(82, 219, 159, 0.566);
+    background-color: aliceblue;
 }
 
 .navLink{
@@ -15,7 +15,7 @@
 }
 
 .navLink:hover{
-    font-size: 50px;
+  text-shadow: 5px 5px 5px cadetblue;
     animation: hoverSpin;
 }
 
@@ -24,11 +24,3 @@
     justify-content: space-around;
 }
 
-@keyframes hoverSpin {
-    from {
-      transform: rotate(0deg);
-    }
-    to {
-      transform: rotate(360deg);
-    }
-  }
