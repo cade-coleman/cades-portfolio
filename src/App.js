@@ -19,11 +19,6 @@ function App() {
           </Routes>
         </div>
       </div>
-      <div>
-        <footer>
-          Thank you!
-        </footer>
-      </div>
     </Router>
   );
 }
