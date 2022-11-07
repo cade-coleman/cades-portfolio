@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/cades-portfolio/static/css/main.f056913d.css",
+    "main.css": "/cades-portfolio/static/css/main.c11e1892.css",
     "main.js": "/cades-portfolio/static/js/main.b93aa473.js",
     "static/js/787.1ed0c42c.chunk.js": "/cades-portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/newBeginnings.gif": "/cades-portfolio/static/media/newBeginnings.90447537764f97a3a25a.gif",
@@ -10,12 +10,12 @@
     "static/media/passgen.jpg.png": "/cades-portfolio/static/media/passgen.jpg.7ec7633f6047ebe55597.png",
     "static/media/Screenshot 2022-09-22 165642.png": "/cades-portfolio/static/media/Screenshot 2022-09-22 165642.bef4041e5e8751aa3ed6.png",
     "index.html": "/cades-portfolio/index.html",
-    "main.f056913d.css.map": "/cades-portfolio/static/css/main.f056913d.css.map",
+    "main.c11e1892.css.map": "/cades-portfolio/static/css/main.c11e1892.css.map",
     "main.b93aa473.js.map": "/cades-portfolio/static/js/main.b93aa473.js.map",
     "787.1ed0c42c.chunk.js.map": "/cades-portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f056913d.css",
+    "static/css/main.c11e1892.css",
     "static/js/main.b93aa473.js"
   ]
 }
