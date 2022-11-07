@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/cades-portfolio/static/css/main.1782e846.css",
-    "main.js": "/cades-portfolio/static/js/main.06a21a27.js",
+    "main.css": "/cades-portfolio/static/css/main.8039ab70.css",
+    "main.js": "/cades-portfolio/static/js/main.fd75ab18.js",
     "static/js/787.1ed0c42c.chunk.js": "/cades-portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/backstageConnection.jpg": "/cades-portfolio/static/media/backstageConnection.d591de5c7be0c483a484.jpg",
     "static/media/CadeHeadshotpng.png": "/cades-portfolio/static/media/CadeHeadshotpng.2143bb883f29d96a6234.png",
@@ -9,12 +9,12 @@
     "static/media/passgen.jpg.png": "/cades-portfolio/static/media/passgen.jpg.7ec7633f6047ebe55597.png",
     "static/media/Screenshot 2022-09-22 165642.png": "/cades-portfolio/static/media/Screenshot 2022-09-22 165642.bef4041e5e8751aa3ed6.png",
     "index.html": "/cades-portfolio/index.html",
-    "main.1782e846.css.map": "/cades-portfolio/static/css/main.1782e846.css.map",
-    "main.06a21a27.js.map": "/cades-portfolio/static/js/main.06a21a27.js.map",
+    "main.8039ab70.css.map": "/cades-portfolio/static/css/main.8039ab70.css.map",
+    "main.fd75ab18.js.map": "/cades-portfolio/static/js/main.fd75ab18.js.map",
     "787.1ed0c42c.chunk.js.map": "/cades-portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1782e846.css",
-    "static/js/main.06a21a27.js"
+    "static/css/main.8039ab70.css",
+    "static/js/main.fd75ab18.js"
   ]
 }
