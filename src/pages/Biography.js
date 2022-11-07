@@ -5,12 +5,14 @@ import '../styles/AppHome.css';
 function Biography (){
 
 return(
-    <div id='mainWrapper' className="App">
+    <div className="App mainWrapper">
         <Nav/>
       <header className="flex App-header">
         <h1><a id='title' href='https://www.yout-ube.com/watch?v=dQw4w9WgXcQ'>About me</a></h1>
       </header> 
     <div>
+
+      {/* Biography paragraph */}
       <div className="flex mt">
         <div className='flex-column'>
           <p className='bio'>
@@ -27,6 +29,7 @@ return(
         </p>
         </div>
         
+        {/* Biography photo */}
       <img id='photo1' src={require('../images/CadeHeadshotpng.png')} />
       </div>
     </div>

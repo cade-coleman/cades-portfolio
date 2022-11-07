@@ -6,7 +6,7 @@ import Card from '../components/Card/Card'
 function Portfolio (){
 
 return(
-    <div id='mainWrapper' className="App">
+    <div className="App mainWrapper" >
         <Nav/>
       <header className="App-header">
         <h1 id='title'>Portfolio</h1>

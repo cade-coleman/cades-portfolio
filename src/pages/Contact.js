@@ -7,7 +7,7 @@ import '../styles/AppHome.css';
 function Contact (){
   
   return(
-    <div id='mainWrapper' className="">
+    <div className="mainWrapper">
         <Nav/>
       <header className="App-header">
         <h1 id='title'>Contact</h1>

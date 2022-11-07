@@ -4,7 +4,7 @@ import Nav from '../components/Nav/Nav';
 
 function Home (){
 return(
-    <div id='mainWrapper' className="App">
+    <div className="App mainWrapper">
         <Nav/>
         <br></br>
         <br></br>
