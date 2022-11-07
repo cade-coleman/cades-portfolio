@@ -33,7 +33,7 @@ return(
       <img id='photo1' src={require('../images/CadeHeadshotpng.png')} />
       </div>
     </div>
-    
+    <br></br><br></br>
     </div>
   );
 }
