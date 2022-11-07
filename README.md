@@ -1,14 +1,6 @@
 ## Welcome to my Portfolio
 
-If you're looking at my portfolio from here you're probably checking out my source code.
+Welcome to my portfolio! This view only site will direct you to back ground information about me as well as some prjoects I've enjoyed making. Enjoy!
 
-## Direction
 
-To run this locally,
-
-- git clone this repository using either SSH keys Or HTML link into your code editor
-
-- run npm i from an integrated terminal on the root package.json
-
-- run npm start and enjoy seeing the fruits of my labor
-
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
